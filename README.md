@@ -32,3 +32,6 @@ It was made using React.JS for FRONTEND and Node.JS for [BACKEND](https://github
 ## The outputs are
 - Working days from Initial date to End date minus 1 day
 - Yield over R$ 1000.00
+
+## Application ScreenShot
+[Screenshot](https://drive.google.com/file/d/1ZyDmF6M471ITRX9f5j3Ge8sSJXmmEKfp/view)
